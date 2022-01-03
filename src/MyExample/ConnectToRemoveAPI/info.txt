@@ -1,0 +1,8 @@
+Запити на сервер GET POST
+1.HttpGet
+2.HttpURLConnect
+3.OkHttpClient
+Три варянти повністю робочі
+Парсер Json
+Підключення до api приват банку, читання json за допомогую класу Gson
+і запис результату в обєкт Currency.
